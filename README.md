@@ -1,4 +1,4 @@
-# Buur en zo
+# Buur en Zo
 
 [![deventer](deventer.png)](https://buurenzo.github.io/deventerdemo/)
 
@@ -23,4 +23,6 @@
 4. Hoe kan capaciteit worden gemeten?
 5. Welke analysemethode deterministisch of stochastisch of combinatie (volgorde)?
 
-
+----
+## Links
+- Buur en Zo [webpagina](buurenzo.nl)
