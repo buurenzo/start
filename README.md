@@ -7,7 +7,7 @@
 #### *Uitgangspunten*
 
 - Er is een gegeven omgeving (buurt)
-- Op een bepaald moment (dag) is er een verwachte vraag naar dienstverlening (uitgedrukt in aantal klanten, aandacht, tijd, locaties, kwaliteit, handelingen)
+- Op een bepaald moment (dag) is er een *verwachte* vraag naar dienstverlening (uitgedrukt in aantal klanten, aandacht, tijd, locaties, kwaliteit, handelingen)
 - Op een bepaald moment (dag) is er een gegeven capaciteit waarmee de dienstverlening kan worden verleend (uitgedrukt in aantal conciërges, beschikbaarheid)
 - ......
 
