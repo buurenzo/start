@@ -32,4 +32,5 @@
 
 ----
 ## Links
-- Buur en Zo [webpagina](buurenzo.nl)
+- [Buur en Zo](buurenzo.nl)
+- [Informatie Gemeente Deventer](https://www.deventerwijzer.nl/is/organisatie/200533/buur-en-zo)
