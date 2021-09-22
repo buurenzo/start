@@ -17,7 +17,9 @@
 2. Welke effecten hebben varianties in vraag op de dienstverlening?
 3. Welke effecten hebben varianties in capaciteit op de dienstverlening?
 4. Welke effecten hebben schokken in de vraag op de dienstverlening?
-5. ......
+5. Wat is het effect van uitbreiding van de buurt op capaciteit?
+6. Welke effecten zou de combinatie van goederen- en personenvervoer hebben op de utvoering en kwaliteit van dienstverlening?
+7. ...
 
 #### *Subvragen*
 
