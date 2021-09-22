@@ -1,6 +1,6 @@
 # Buur en Zo
 
-[![deventer](deventer.png)](https://buurenzo.github.io/deventerdemo/)
+[![deventer](image.gif)](https://buurenzo.github.io/deventerdemo/)
 
 ## Probleembeschrijving
 
