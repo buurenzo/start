@@ -14,14 +14,12 @@
 #### *Onderzoeksvragen*
 
 1. Wat is bij een gegeven vraag en capaciteit de optimale route?
-2. Welke effecten hebben varianties in vraag op de dienstverlening?
+2. Welke effecten hebben varianties of schokken in vraag op de dienstverlening?
 3. Welke effecten hebben varianties in capaciteit op de dienstverlening?
-4. Welke effecten hebben schokken in de vraag op de dienstverlening?
-5. Wat is het effect van uitbreiding van de buurt op capaciteit?
-6. Wat is het effect van een verandering van omgeving (stad >> platteland) op inrichting en dienstverlening?
-7. Welke effecten zou de combinatie van goederen- en personenvervoer hebben op de utvoering en kwaliteit van dienstverlening?
-8. Welke andere diensten kunnen worden toegevoegd en wat zijn de effecten op capaciteit en beleving?
-9. Welke features kunnen aan de dienstverlening worden toegevoegd (bv. real-time track en trace)?
+4. Wat is het effect van uitbreiding van de buurt op capaciteit?
+5. Wat is het effect van een verandering van omgeving (stad >> platteland) op inrichting en dienstverlening?
+6. Welke andere diensten (bv. combinatie van goederen- en personenvervoer) kunnen worden toegevoegd en wat zijn de effecten op capaciteit en beleving?
+7. Welke features kunnen aan de dienstverlening worden toegevoegd (bv. real-time track en trace)?
 
 #### *Subvragen*
 
