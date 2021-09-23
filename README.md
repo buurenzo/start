@@ -6,7 +6,7 @@
 
 #### *Uitgangspunten*
 
-- Er is een gegeven omgeving (buurt)
+- Er is een gegeven omgeving (bv. buurt)
 - Op een bepaald moment (dag) is er een *verwachte* vraag naar dienstverlening (uitgedrukt in aantal klanten, aandacht, tijd, locaties, kwaliteit, handelingen)
 - Op een bepaald moment (dag) is er een gegeven capaciteit waarmee de dienstverlening kan worden verleend (uitgedrukt in aantal conciërges, beschikbaarheid)
 - ......
@@ -18,8 +18,10 @@
 3. Welke effecten hebben varianties in capaciteit op de dienstverlening?
 4. Welke effecten hebben schokken in de vraag op de dienstverlening?
 5. Wat is het effect van uitbreiding van de buurt op capaciteit?
-6. Welke effecten zou de combinatie van goederen- en personenvervoer hebben op de utvoering en kwaliteit van dienstverlening?
-7. ...
+6. Wat is het effect van een verandering van omgeving (stad >> platteland) op inrichting en dienstverlening?
+7. Welke effecten zou de combinatie van goederen- en personenvervoer hebben op de utvoering en kwaliteit van dienstverlening?
+8. Welke andere diensten kunnen worden toegevoegd en wat zijn de effecten op capaciteit en beleving?
+9. Welke features kunnen aan de dienstverlening worden toegevoegd (bv. real-time track en trace)?
 
 #### *Subvragen*
 
