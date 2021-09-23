@@ -26,10 +26,11 @@
 
 1.  Hoe kan vraag worden gedefinieerd en gekwantificeerd?
 2.  Hoe kan capaciteit worden gedefinieerd en gekwantificeerd?
-3.  Hoe kan vraag worden gemeten?
-4.  Hoe kan capaciteit worden gemeten?
-5.  Welke analysemethodes zijn voor welke vraag het meest geschikt: deterministisch of stochastisch of combinatie (welke volgorde)?
-6.  ....
+3.  Welke variabele dient te worden geminimaliseerd bij de bepaling van een optimale route?
+4.  Hoe kan vraag worden gemeten?
+5.  Hoe kan capaciteit worden gemeten?
+6.  Welke analysemethodes zijn voor welke vraag het meest geschikt: deterministisch of stochastisch of combinatie (welke volgorde)?
+7.  ....
 
 ------------------------------------------------------------------------
 
